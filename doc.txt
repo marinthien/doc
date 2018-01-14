@@ -1,3 +1,5 @@
 just text file is easier
 
 A adding the doc txt file now.
+
+B is making change now to test the fetch first.
