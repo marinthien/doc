@@ -3,4 +3,8 @@ just text file is easier
 A adding the doc txt file now.
 
 
+
 i also making change but dont want to merge yet
+
+B is making change now to test the fetch first.
+
